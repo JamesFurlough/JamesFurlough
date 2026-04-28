@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @JamesFurlough
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning C++
-- 📫 The best way to reach me is via email at Jrfurlough7@gmail.com
-- 😄 Pronouns: Bat/Man
-- ⚡ Fun fact: I like to paint Warhammer models
+- I'm James Furlough, this is a collection of some of my projects for school and fun.
 
 <!---
 JamesFurlough/JamesFurlough is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
